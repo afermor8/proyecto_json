@@ -1,1 +1,516 @@
-{"films":[{"_id":"5f77fd2b91ec5d34b3746342","name":"Captain America: El primer vengador","year":"2011","duration":"2h 4m","description":"Tras tres meses de someterse a un programa de entrenamiento físico y táctico, encomiendan a Steve Rogers su primera misión como Capitán América. Armado con un escudo indestructible, emprende la guerra contra la perversa organización HYDRA.","background":"https://i.ibb.co/G3C6k5W/bg-captainamerica-thefirstavenger.jpg","cover":"https://i.ibb.co/j8bhkGb/captainamerica-thefirstavenger.png","ucm":true,"ucmid":1,"src":"Captain America - El primer vengador","trailer":"https://www.youtube.com/watch?v=JerVrbLldXw","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77fdf791ec5d34b3746343","name":"Captain Marvel","year":"2019","duration":"2h 5m","description":"Una guerrera extraterrestre de la civilización Kree se encuentra atrapada en medio de una batalla. Con la ayuda de Nick Fury trata de descriptionubrir los secretos de su pasado mientras aprovecha sus poderes para terminar la guerra.","background":"https://i.ibb.co/k9hckpF/bg-captainmarvel.jpg","cover":"https://i.ibb.co/6rP2wyF/captainmarvel.jpg","ucm":true,"ucmid":2,"src":"Captain Marvel","trailer":"https://www.youtube.com/watch?v=Z1BCujX3pw8","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77fe0791ec5d34b3746344","name":"Iron Man","year":"2008","duration":"2h 6m","description":"Un empresario millonario construye un traje blindado y lo usa para combatir el crimen y el terrorismo.","background":"https://i.ibb.co/mGfLKkW/bg-ironman.jpg","cover":"https://i.ibb.co/DQmBsPJ/ironman.jpg","ucm":true,"ucmid":3,"src":"Iron Man","trailer":"https://www.youtube.com/watch?v=byQpcN78UjQ","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77fe1891ec5d34b3746345","name":"Iron Man 2","year":"2010","duration":"2h 4m","description":"Con el mundo ahora consciente de que él es Iron Man, el millonario inventor Tony Stark debe forjar nuevas alianzas y confrontar a un enemigo nuevo y poderoso.","background":"https://i.ibb.co/CVtRXLH/bg-ironman-2.jpg","cover":"https://i.ibb.co/xqTkZVV/ironman-2.jpg","ucm":true,"ucmid":4,"src":"Iron Man 2","trailer":"https://www.youtube.com/watch?v=BoohRoVA9WQ","available":true,"likes":[],"dislikes":[]},{"_id":"5f77fe2591ec5d34b3746346","name":"Deadpool 2","year":"2018","duration":"2h 14m","description":"Deadpool debe proteger a Russell, un adolescente mutante, de Cable, un soldado del futuro genéticamente modificado. Deadpool se alía con otros superhéroes para poder derrotar al poderoso Cable.","background":"https://i.ibb.co/jkBJYJG/bg-deadpool-2.jpg","cover":"https://i.ibb.co/VYzVz1M/deadpool-2.jpg","ucm":false,"src":"Deadpool 2","trailer":"https://www.youtube.com/watch?v=D86RtevtfrA","available":true,"likes":[],"dislikes":[]},{"_id":"5f77fe9491ec5d34b3746347","name":"The Incredible Hulk","year":"2008","duration":"2h 15m","description":"Bruce Banner recorre el mundo en busca de un antídoto para librarse de su alter ego. Además tendrá que hacer frente a Emil, un nuevo enemigo, lo que convertirá a Nueva York en el escenario de la última batalla entre las dos criaturas más poderosas.","background":"https://i.ibb.co/k6s9TnM/bg-theincrediblehulk.jpg","cover":"https://i.ibb.co/6Wttbxg/theincrediblehulk.jpg","ucm":true,"ucmid":5,"src":"The Incredible Hulk","trailer":"https://www.youtube.com/watch?v=xbqNb2PFKKA","available":true,"likes":[],"dislikes":["itseduardopacheco@gmail.com"]},{"_id":"5f77fea191ec5d34b3746348","name":"Thor","year":"2011","duration":"1h 55m","description":"Tras desatar una antigua guerra, el codicioso guerrero Thor es desterrado a la Tierra por su padre para que viva entre los hombres y descriptionubra así el verdadero sentido de la humildad. Allí, sin sus poderes, Thor deberá enfrentarse a las fuerzas más oscuras que su mayor enemigo le enviará desde Asgard.","background":"https://i.ibb.co/tKggmvx/bg-thor.jpg","cover":"https://i.ibb.co/9vJvVzX/thor.jpg","ucm":true,"ucmid":6,"src":"Thor","trailer":"https://www.youtube.com/watch?v=JOddp-nlNvQ","available":true,"likes":[],"dislikes":["itseduardopacheco@gmail.com"]},{"_id":"5f77feab91ec5d34b3746349","name":"Avengers","year":"2012","duration":"2h 23m","description":"El director de la Agencia SHIELD decide reclutar a un equipo para salvar al mundo de un desastre casi seguro cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial.","background":"https://i.ibb.co/MSJT89n/bg-avengers.jpg","cover":"https://i.ibb.co/JC2xg13/avengers.png","ucm":true,"ucmid":7,"src":"Avengers","trailer":"https://www.youtube.com/watch?v=eOrNdBpGMv8&t=1s","available":true,"likes":[],"dislikes":[]},{"_id":"5f77feb891ec5d34b374634a","name":"Iron Man 3","year":"2013","duration":"2h 11m","description":"El descriptionarado y brillante Tony Stark, tras ver destruido todo su universo personal, debe encontrar y enfrentarse a un enemigo cuyo poder no conoce límites. Este viaje pondrá a prueba su entereza una y otra vez, y le obligará a confiar en su ingenio.","background":"https://i.ibb.co/GQGYnLw/bg-ironman-3.jpg","cover":"https://i.ibb.co/7NrXMpr/ironman-3.jpg","ucm":true,"ucmid":8,"src":"Iron Man 3","trailer":"https://www.youtube.com/watch?v=Ke1Y3P9D0Bc","available":true,"likes":[],"dislikes":[]},{"_id":"5f77fec491ec5d34b374634b","name":"Thor: The Dark World","year":"2013","duration":"1h 52m","description":"Malekith, un enemigo más antiguo que el universo, regresa a la Tierra para cumplir su plan destructor. Thor debe enfrentarse a un rival al que ni siquiera Odín parece poder detener y, desesperado, libera a su hermano Loki para que lo ayude.","background":"https://i.ibb.co/FsvsT0r/bg-thor-thedarkworld.jpg","cover":"https://i.ibb.co/1mPrMWN/thor-thedarkworld.jpg","ucm":true,"ucmid":9,"src":"Thor - The Dark World","trailer":"https://www.youtube.com/watch?v=npvJ9FTgZbM","available":true,"likes":[],"dislikes":["itseduardopacheco@gmail.com"]},{"_id":"5f77fece91ec5d34b374634c","name":"Captain America: The Winter Soldier","year":"2014","duration":"2h 16m","description":"El Capitán América, la Viuda Negra y un nuevo aliado, el Halcón, se enfrentan a un enemigo inesperado mientras ellos luchan por exponer una conspiración que pone en riesgo al mundo.","background":"https://i.ibb.co/tKMxbk4/bg-captainamerica-thewintersoldier.jpg","cover":"https://i.ibb.co/FhJTQhj/captainamerica-thewintersoldier.jpg","ucm":true,"ucmid":10,"src":"Captain America - The Winter Soldier","trailer":"https://www.youtube.com/watch?v=7SlILk2WMTI","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77fed791ec5d34b374634d","name":"The Guardians of the Galaxy","year":"2014","duration":"2h 5m","description":"Un aventurero espacial se convierte en la presa de unos cazadores de tesoros después de robar el orbe de un villano traicionero. Cuando descriptionubre su poder, debe hallar la forma de unir a unos rivales para salvar al universo.","background":"https://i.ibb.co/cTQ7q4r/bg-theguardiansofthegalaxy.jpg","cover":"https://i.ibb.co/FgC4yVW/theguardiansofthegalaxy.jpg","ucm":true,"ucmid":11,"src":"The Guardians of the Galaxy","trailer":"https://www.youtube.com/watch?v=d96cjJhvlMA","available":true,"likes":[],"dislikes":[]},{"_id":"5f77fee391ec5d34b374634e","name":"The Guardians of the Galaxy Vol. 2","year":"2017","duration":"2h 18m","description":"Una poderosa raza alienígena contrata a los Guardianes para que protejan sus valiosas baterías de energía, pero cuando Rocket las roba, los alienígenas envían a sus tropas de combate a vengarse de los Guardianes. Mientras tratan de escapar con vida, intentan resolver el misterio de los verdaderos orígenes de Peter Quill.","background":"https://i.ibb.co/tshyh99/bg-theguardiansofthegalaxy-vol2.jpg","cover":"https://i.ibb.co/k9qW3x1/theguardiansofthegalaxy-vol2.jpg","ucm":true,"ucmid":12,"src":"The Guardians of the Galaxy Vol 2","trailer":"https://www.youtube.com/watch?v=dW1BIid8Osg","available":true,"likes":[],"dislikes":["itseduardopacheco@gmail.com"]},{"_id":"5f77fefe91ec5d34b374634f","name":"Avengers: Age of Ultron","year":"2015","duration":"2h 22m","description":"Los Vengadores se reúnen de nuevo y juntan sus fuerzas con las de los recién llegados Quicksilver y Bruja Escarlata para luchar contra un robot maquiavélico llamado Ultrón, el cual Tony Stark creó con el fin de defender la paz, pero resultó defectuoso y ahora pretende exterminar a toda la humanidad.","background":"https://i.ibb.co/z7RJZdW/bg-avengers-ageofultron.jpg","cover":"https://i.ibb.co/R9ckX58/avengers-ageofultron.jpg","ucm":true,"ucmid":13,"src":"Avengers - Age of Ultron","trailer":"https://www.youtube.com/watch?v=tmeOjFno6Do","available":true,"likes":[],"dislikes":["itseduardopacheco@gmail.com"]},{"_id":"5f77ff0991ec5d34b3746350","name":"Ant-Man","year":"2015","duration":"1h 58m","description":"Con la habilidad de encogerse de tamaño, pero crecer en fuerza, un estafador debe ayudar a su mentor a proteger el secreto de su traje de hombre hormiga y enfrentar un atraco que salvará al mundo.","background":"https://i.ibb.co/ckGNpR4/bg-antman.jpg","cover":"https://i.ibb.co/5TK5LMk/antman.jpg","ucm":true,"ucmid":14,"src":"Ant-Man","trailer":"https://www.youtube.com/watch?v=pWdKf3MneyI","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff1491ec5d34b3746351","name":"Captain America: Civil War","year":"2016","duration":"2h 28m","description":"Después de que otro incidente internacional, en el que se ven envueltos los Vengadores, produzca daños colaterales, la presión política obliga a poner en marcha un sistema para depurar responsabilidades.","background":"https://i.ibb.co/K7xv9g4/bg-captainamerica-civilwar.jpg","cover":"https://i.ibb.co/52SxkxS/captainamerica-civilwar.jpg","ucm":true,"ucmid":15,"src":"Captain America - Civil War","trailer":"https://www.youtube.com/watch?v=dKrVegVI0Us","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff1e91ec5d34b3746352","name":"Venom","year":"2018","duration":"2h 20m","description":"El periodista Eddie Brock está investigando a Carlton Drake, el célebre fundador de Life Foundation. Brock establece una simbiosis con un ente alienígena que le ofrece superpoderes, pero el ser se apodera de su personalidad y lo vuelve perverso.","background":"https://i.ibb.co/n8KQNR7/bg-venom.jpg","cover":"https://i.ibb.co/kXpyd24/venom.jpg","blockbuster":true,"mostviewed":true,"ucm":false,"src":"Venom","trailer":"https://www.youtube.com/watch?v=u9Mv98Gr5pY","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff2891ec5d34b3746353","name":"Black Panther","year":"2018","duration":"2h 15m","description":"Después de morir su padre, T'Challa regresa a su nación, Wakanda. Una vez allí, descriptionubre que tiene un nuevo y terrible enemigo, y T'Challa asume la personalidad de Pantera Negra para salvar no solo al reino de Wakanda, sino a toda la humanidad.","background":"https://i.ibb.co/cD6pf4X/bg-blackpanther.jpg","cover":"https://i.ibb.co/xSn3Cdc/blackpanther.jpg","ucm":true,"ucmid":16,"src":"Black Panther","trailer":"https://www.youtube.com/watch?v=xjDjIWPwcPU","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff3391ec5d34b3746354","name":"Spider-Man: Homecoming","year":"2017","duration":"2h 13m","description":"Peter Parker asume su nueva identidad como Spider-Man y regresa a vivir con su tía después de su aventura con los Vengadores. Al volver, mientras sigue bajo la tutela de Tony Stark, descriptionubre que ha surgido un nuevo y despiadado enemigo que pretende destruir todo lo que ama: el Buitre.","background":"https://i.ibb.co/XsZvS4f/bg-spiderman-homecoming.jpg","cover":"https://i.ibb.co/pdrP7Z1/spiderman-homecoming.jpg","ucm":true,"ucmid":17,"src":"Spider-Man - Homecoming","trailer":"https://www.youtube.com/watch?v=n9DwoQ7HWvI","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff4191ec5d34b3746355","name":"Doctor Strange","year":"2016","duration":"1h 55m","description":"Después de sufrir un accidente, un brillante y arrogante cirujano busca rehabilitarse mediante técnicas alternativas. Sus intentos le llevan a descriptionubrir que ha sido designado para encabezar la lucha contra una fuerza oscura y sobrenatural.","background":"https://i.ibb.co/xDLzw2J/bg-doctorstrange.jpg","cover":"https://i.ibb.co/b6j6Czc/doctorstrange.jpg","ucm":true,"ucmid":18,"src":"Doctor Strange","trailer":"https://www.youtube.com/watch?v=HSzx-zryEgM","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff4a91ec5d34b3746356","name":"Thor: Ragnarok","year":"2017","duration":"2h 10m","description":"Thor está preso en el otro extremo del universo. Necesita regresar a tiempo para evitar que la todopoderosa Hela destruya su mundo, pero para escapar de su confinamiento y evitar el apocalipsis tendrá que vencer antes al Increíble Hulk en un torneo de gladiadores.","background":"https://i.ibb.co/jDffVtk/bg-thor-ragnarok.jpg","cover":"https://i.ibb.co/PCPynQq/thor-ragnarok.jpg","ucm":true,"ucmid":19,"src":"Thor - Ragnarok","trailer":"https://www.youtube.com/watch?v=ue80QwXMRHg","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff5691ec5d34b3746357","name":"Ant-Man & The Wasp","year":"2018","duration":"2h 5m","description":"Scott Lang vuelve a enfundarse el traje de Ant-Man para pelear codo a codo junto con la Avispa. La misión revela a los dos superhéroes un secreto terrible y los enfrenta a su enemigo más poderoso.","background":"https://i.ibb.co/7GPMkhV/bg-antmanandthewasp.jpg","cover":"https://i.ibb.co/Y3qhysv/antmanandthewasp.jpg","ucm":true,"ucmid":20,"src":"Ant-Man and The Wasp","trailer":"https://www.youtube.com/watch?v=UUkn-enk2RU","available":true,"likes":[],"dislikes":[]},{"_id":"5f77ff5f91ec5d34b3746358","name":"Avengers: Infinity War","year":"2018","duration":"2h 40m","description":"Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo.","background":"https://i.ibb.co/6Nt85gM/bg-avengers-infinitywar.jpg","cover":"https://i.ibb.co/Sf58hrw/avengers-infinitywar.jpg","ucm":true,"ucmid":21,"src":"Avengers - Infinity War","trailer":"https://www.youtube.com/watch?v=6ZfuNTqbHE8","available":true,"likes":[],"dislikes":[]},{"_id":"5f77ff6991ec5d34b3746359","name":"Avengers: EndGame","year":"2019","duration":"3h 2m","description":"Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.","background":"https://i.ibb.co/NZTZyZf/bg-avengers-endgame.jpg","cover":"https://i.ibb.co/MSSJbsW/avengers-endgame.jpg","blockbuster":true,"mostviewed":true,"ucm":true,"ucmid":22,"src":"Avengers - EndGame","trailer":"https://www.youtube.com/watch?v=svLSGZkTzC0","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff7291ec5d34b374635a","name":"Spider-Man: Far From Home","year":"2019","duration":"2h 20m","description":"Peter Parker decide pasar unas merecidas vacaciones en Europa junto a MJ, Ned y el resto de sus amigos. Sin embargo, Peter debe volver a ponerse el traje de Spider-Man cuando Nick Fury le encomienda una nueva misión: frenar el ataque de unas criaturas que están causando el caos en el continente.","background":"https://i.ibb.co/SdL558j/bg-spiderman-farfromhome.jpg","cover":"https://i.ibb.co/XxGqf2w/spiderman-farfromhome.jpg","blockbuster":true,"mostviewed":false,"ucm":true,"ucmid":23,"src":"Spider-Man - Far From Home","trailer":"https://www.youtube.com/watch?v=Nt9L1jCKGnE","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff7c91ec5d34b374635b","name":"Logan","year":"2017","duration":"2h 21m","description":"Han pasado los años y los mutantes están en declive. Logan, débil y cansado, vive alejado de todos hasta que acepta una última misión de Charles Xavier: la de proteger a una joven especial, de nombre Laura Kinney pero conocida como X-23, la última esperanza de la raza mutante.","background":"https://i.ibb.co/JxWJkDn/bg-logan.jpg","cover":"https://i.ibb.co/8cWKmQb/logan.jpg","ucm":false,"src":"Logan","trailer":"https://www.youtube.com/watch?v=Div0iP65aZo","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff8591ec5d34b374635c","name":"Deadpool","year":"2016","duration":"1h 49m","description":"Un exmercenario quien, tras haber sido sometido a un cruel experimento, adquiere el superpoder de sanar rápidamente y pretende vengarse del hombre que destrozó su vida.","background":"https://i.ibb.co/2gwW5VP/deadpool.jpg","cover":"https://i.ibb.co/2gwW5VP/deadpool.jpg","ucm":false,"src":"Deadpool","trailer":"https://www.youtube.com/watch?v=ONHBaC-pfsk","available":true,"likes":["itseduardopacheco@gmail.com"],"dislikes":[]},{"_id":"5f77ff8e91ec5d34b374635d","name":"Black Widow","year":"2020","duration":"2h 13min","description":"Al nacer, la Viuda Negra, también conocida como Natasha Romanova, se entrega a la KGB para convertirse en su agente definitivo. Cuando la URSS se separa, el gobierno intenta matarla mientras la acción se traslada a la actual Nueva York.","background":"https://i.ibb.co/HPQpKhp/bg-blackwidow-v2.jpg","cover":"https://i.ibb.co/g4XyYsk/blackwidow.jpg","ucm":true,"ucmid":24,"src":"Black Widow","trailer":"https://www.youtube.com/watch?v=xY1eqVSSuus","available":true,"likes":["itseduardopacheco@gmail.com","albertovazquez1799@gmail.com"],"dislikes":[]},{"_id":"5f79f92876d6b40dced978e9","name":"The New Mutants","year":"2020","duration":"1h 39min","description":"La historia se centra en los Nuevos Mutantes, un grupo de mutantes formado por los primeros graduados en la escuela de Charles Xavier.","background":"https://lanetaneta.com/wp-content/uploads/2020/08/Como-se-conectan-The-New-Mutants-con-X-Men-Apocalypse-y.jpeg","cover":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcORUm9-D31jvruywMie588xKaBQZsKXGTOkzBsfYydnVFMfIE","ucm":false,"src":"The New Mutants","trailer":"https://www.youtube.com/watch?v=W_vJhUAOFpI","available":true,"likes":["albertovazquez1799@gmail.com"],"dislikes":["itseduardopacheco@gmail.com"]}]}
+{
+  "films": [
+    {
+      "_id": "5f77fd2b91ec5d34b3746342",
+      "name": "Captain America: El primer vengador",
+      "year": "2011",
+      "duration": "2h 4m",
+      "description": "Tras tres meses de someterse a un programa de entrenamiento físico y táctico, encomiendan a Steve Rogers su primera misión como Capitán América. Armado con un escudo indestructible, emprende la guerra contra la perversa organización HYDRA.",
+      "background": "https://i.ibb.co/G3C6k5W/bg-captainamerica-thefirstavenger.jpg",
+      "cover": "https://i.ibb.co/j8bhkGb/captainamerica-thefirstavenger.png",
+      "ucm": true,
+      "ucmid": 1,
+      "src": "Captain America - El primer vengador",
+      "trailer": "https://www.youtube.com/watch?v=JerVrbLldXw",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77fdf791ec5d34b3746343",
+      "name": "Captain Marvel",
+      "year": "2019",
+      "duration": "2h 5m",
+      "description": "Una guerrera extraterrestre de la civilización Kree se encuentra atrapada en medio de una batalla. Con la ayuda de Nick Fury trata de descriptionubrir los secretos de su pasado mientras aprovecha sus poderes para terminar la guerra.",
+      "background": "https://i.ibb.co/k9hckpF/bg-captainmarvel.jpg",
+      "cover": "https://i.ibb.co/6rP2wyF/captainmarvel.jpg",
+      "ucm": true,
+      "ucmid": 2,
+      "src": "Captain Marvel",
+      "trailer": "https://www.youtube.com/watch?v=Z1BCujX3pw8",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77fe0791ec5d34b3746344",
+      "name": "Iron Man",
+      "year": "2008",
+      "duration": "2h 6m",
+      "description": "Un empresario millonario construye un traje blindado y lo usa para combatir el crimen y el terrorismo.",
+      "background": "https://i.ibb.co/mGfLKkW/bg-ironman.jpg",
+      "cover": "https://i.ibb.co/DQmBsPJ/ironman.jpg",
+      "ucm": true,
+      "ucmid": 3,
+      "src": "Iron Man",
+      "trailer": "https://www.youtube.com/watch?v=byQpcN78UjQ",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77fe1891ec5d34b3746345",
+      "name": "Iron Man 2",
+      "year": "2010",
+      "duration": "2h 4m",
+      "description": "Con el mundo ahora consciente de que él es Iron Man, el millonario inventor Tony Stark debe forjar nuevas alianzas y confrontar a un enemigo nuevo y poderoso.",
+      "background": "https://i.ibb.co/CVtRXLH/bg-ironman-2.jpg",
+      "cover": "https://i.ibb.co/xqTkZVV/ironman-2.jpg",
+      "ucm": true,
+      "ucmid": 4,
+      "src": "Iron Man 2",
+      "trailer": "https://www.youtube.com/watch?v=BoohRoVA9WQ",
+      "available": true,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77fe2591ec5d34b3746346",
+      "name": "Deadpool 2",
+      "year": "2018",
+      "duration": "2h 14m",
+      "description": "Deadpool debe proteger a Russell, un adolescente mutante, de Cable, un soldado del futuro genéticamente modificado. Deadpool se alía con otros superhéroes para poder derrotar al poderoso Cable.",
+      "background": "https://i.ibb.co/jkBJYJG/bg-deadpool-2.jpg",
+      "cover": "https://i.ibb.co/VYzVz1M/deadpool-2.jpg",
+      "ucm": false,
+      "src": "Deadpool 2",
+      "trailer": "https://www.youtube.com/watch?v=D86RtevtfrA",
+      "available": true,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77fe9491ec5d34b3746347",
+      "name": "The Incredible Hulk",
+      "year": "2008",
+      "duration": "2h 15m",
+      "description": "Bruce Banner recorre el mundo en busca de un antídoto para librarse de su alter ego. Además tendrá que hacer frente a Emil, un nuevo enemigo, lo que convertirá a Nueva York en el escenario de la última batalla entre las dos criaturas más poderosas.",
+      "background": "https://i.ibb.co/k6s9TnM/bg-theincrediblehulk.jpg",
+      "cover": "https://i.ibb.co/6Wttbxg/theincrediblehulk.jpg",
+      "ucm": true,
+      "ucmid": 5,
+      "src": "The Incredible Hulk",
+      "trailer": "https://www.youtube.com/watch?v=xbqNb2PFKKA",
+      "available": true,
+      "likes": [],
+      "dislikes": [
+        "itseduardopacheco@gmail.com"
+      ]
+    },
+    {
+      "_id": "5f77fea191ec5d34b3746348",
+      "name": "Thor",
+      "year": "2011",
+      "duration": "1h 55m",
+      "description": "Tras desatar una antigua guerra, el codicioso guerrero Thor es desterrado a la Tierra por su padre para que viva entre los hombres y descriptionubra así el verdadero sentido de la humildad. Allí, sin sus poderes, Thor deberá enfrentarse a las fuerzas más oscuras que su mayor enemigo le enviará desde Asgard.",
+      "background": "https://i.ibb.co/tKggmvx/bg-thor.jpg",
+      "cover": "https://i.ibb.co/9vJvVzX/thor.jpg",
+      "ucm": true,
+      "ucmid": 6,
+      "src": "Thor",
+      "trailer": "https://www.youtube.com/watch?v=JOddp-nlNvQ",
+      "available": true,
+      "likes": [],
+      "dislikes": [
+        "itseduardopacheco@gmail.com"
+      ]
+    },
+    {
+      "_id": "5f77feab91ec5d34b3746349",
+      "name": "Avengers",
+      "year": "2012",
+      "duration": "2h 23m",
+      "description": "El director de la Agencia SHIELD decide reclutar a un equipo para salvar al mundo de un desastre casi seguro cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial.",
+      "background": "https://i.ibb.co/MSJT89n/bg-avengers.jpg",
+      "cover": "https://i.ibb.co/JC2xg13/avengers.png",
+      "ucm": true,
+      "ucmid": 7,
+      "src": "Avengers",
+      "trailer": "https://www.youtube.com/watch?v=eOrNdBpGMv8&t=1s",
+      "available": true,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77feb891ec5d34b374634a",
+      "name": "Iron Man 3",
+      "year": "2013",
+      "duration": "2h 11m",
+      "description": "El descriptionarado y brillante Tony Stark, tras ver destruido todo su universo personal, debe encontrar y enfrentarse a un enemigo cuyo poder no conoce límites. Este viaje pondrá a prueba su entereza una y otra vez, y le obligará a confiar en su ingenio.",
+      "background": "https://i.ibb.co/GQGYnLw/bg-ironman-3.jpg",
+      "cover": "https://i.ibb.co/7NrXMpr/ironman-3.jpg",
+      "ucm": true,
+      "ucmid": 8,
+      "src": "Iron Man 3",
+      "trailer": "https://www.youtube.com/watch?v=Ke1Y3P9D0Bc",
+      "available": true,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77fec491ec5d34b374634b",
+      "name": "Thor: The Dark World",
+      "year": "2013",
+      "duration": "1h 52m",
+      "description": "Malekith, un enemigo más antiguo que el universo, regresa a la Tierra para cumplir su plan destructor. Thor debe enfrentarse a un rival al que ni siquiera Odín parece poder detener y, desesperado, libera a su hermano Loki para que lo ayude.",
+      "background": "https://i.ibb.co/FsvsT0r/bg-thor-thedarkworld.jpg",
+      "cover": "https://i.ibb.co/1mPrMWN/thor-thedarkworld.jpg",
+      "ucm": true,
+      "ucmid": 9,
+      "src": "Thor - The Dark World",
+      "trailer": "https://www.youtube.com/watch?v=npvJ9FTgZbM",
+      "available": true,
+      "likes": [],
+      "dislikes": [
+        "itseduardopacheco@gmail.com"
+      ]
+    },
+    {
+      "_id": "5f77fece91ec5d34b374634c",
+      "name": "Captain America: The Winter Soldier",
+      "year": "2014",
+      "duration": "2h 16m",
+      "description": "El Capitán América, la Viuda Negra y un nuevo aliado, el Halcón, se enfrentan a un enemigo inesperado mientras ellos luchan por exponer una conspiración que pone en riesgo al mundo.",
+      "background": "https://i.ibb.co/tKMxbk4/bg-captainamerica-thewintersoldier.jpg",
+      "cover": "https://i.ibb.co/FhJTQhj/captainamerica-thewintersoldier.jpg",
+      "ucm": true,
+      "ucmid": 10,
+      "src": "Captain America - The Winter Soldier",
+      "trailer": "https://www.youtube.com/watch?v=7SlILk2WMTI",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77fed791ec5d34b374634d",
+      "name": "The Guardians of the Galaxy",
+      "year": "2014",
+      "duration": "2h 5m",
+      "description": "Un aventurero espacial se convierte en la presa de unos cazadores de tesoros después de robar el orbe de un villano traicionero. Cuando descriptionubre su poder, debe hallar la forma de unir a unos rivales para salvar al universo.",
+      "background": "https://i.ibb.co/cTQ7q4r/bg-theguardiansofthegalaxy.jpg",
+      "cover": "https://i.ibb.co/FgC4yVW/theguardiansofthegalaxy.jpg",
+      "ucm": true,
+      "ucmid": 11,
+      "src": "The Guardians of the Galaxy",
+      "trailer": "https://www.youtube.com/watch?v=d96cjJhvlMA",
+      "available": true,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77fee391ec5d34b374634e",
+      "name": "The Guardians of the Galaxy Vol. 2",
+      "year": "2017",
+      "duration": "2h 18m",
+      "description": "Una poderosa raza alienígena contrata a los Guardianes para que protejan sus valiosas baterías de energía, pero cuando Rocket las roba, los alienígenas envían a sus tropas de combate a vengarse de los Guardianes. Mientras tratan de escapar con vida, intentan resolver el misterio de los verdaderos orígenes de Peter Quill.",
+      "background": "https://i.ibb.co/tshyh99/bg-theguardiansofthegalaxy-vol2.jpg",
+      "cover": "https://i.ibb.co/k9qW3x1/theguardiansofthegalaxy-vol2.jpg",
+      "ucm": true,
+      "ucmid": 12,
+      "src": "The Guardians of the Galaxy Vol 2",
+      "trailer": "https://www.youtube.com/watch?v=dW1BIid8Osg",
+      "available": true,
+      "likes": [],
+      "dislikes": [
+        "itseduardopacheco@gmail.com"
+      ]
+    },
+    {
+      "_id": "5f77fefe91ec5d34b374634f",
+      "name": "Avengers: Age of Ultron",
+      "year": "2015",
+      "duration": "2h 22m",
+      "description": "Los Vengadores se reúnen de nuevo y juntan sus fuerzas con las de los recién llegados Quicksilver y Bruja Escarlata para luchar contra un robot maquiavélico llamado Ultrón, el cual Tony Stark creó con el fin de defender la paz, pero resultó defectuoso y ahora pretende exterminar a toda la humanidad.",
+      "background": "https://i.ibb.co/z7RJZdW/bg-avengers-ageofultron.jpg",
+      "cover": "https://i.ibb.co/R9ckX58/avengers-ageofultron.jpg",
+      "ucm": true,
+      "ucmid": 13,
+      "src": "Avengers - Age of Ultron",
+      "trailer": "https://www.youtube.com/watch?v=tmeOjFno6Do",
+      "available": true,
+      "likes": [],
+      "dislikes": [
+        "itseduardopacheco@gmail.com"
+      ]
+    },
+    {
+      "_id": "5f77ff0991ec5d34b3746350",
+      "name": "Ant-Man",
+      "year": "2015",
+      "duration": "1h 58m",
+      "description": "Con la habilidad de encogerse de tamaño, pero crecer en fuerza, un estafador debe ayudar a su mentor a proteger el secreto de su traje de hombre hormiga y enfrentar un atraco que salvará al mundo.",
+      "background": "https://i.ibb.co/ckGNpR4/bg-antman.jpg",
+      "cover": "https://i.ibb.co/5TK5LMk/antman.jpg",
+      "ucm": true,
+      "ucmid": 14,
+      "src": "Ant-Man",
+      "trailer": "https://www.youtube.com/watch?v=pWdKf3MneyI",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff1491ec5d34b3746351",
+      "name": "Captain America: Civil War",
+      "year": "2016",
+      "duration": "2h 28m",
+      "description": "Después de que otro incidente internacional, en el que se ven envueltos los Vengadores, produzca daños colaterales, la presión política obliga a poner en marcha un sistema para depurar responsabilidades.",
+      "background": "https://i.ibb.co/K7xv9g4/bg-captainamerica-civilwar.jpg",
+      "cover": "https://i.ibb.co/52SxkxS/captainamerica-civilwar.jpg",
+      "ucm": true,
+      "ucmid": 15,
+      "src": "Captain America - Civil War",
+      "trailer": "https://www.youtube.com/watch?v=dKrVegVI0Us",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff1e91ec5d34b3746352",
+      "name": "Venom",
+      "year": "2018",
+      "duration": "2h 20m",
+      "description": "El periodista Eddie Brock está investigando a Carlton Drake, el célebre fundador de Life Foundation. Brock establece una simbiosis con un ente alienígena que le ofrece superpoderes, pero el ser se apodera de su personalidad y lo vuelve perverso.",
+      "background": "https://i.ibb.co/n8KQNR7/bg-venom.jpg",
+      "cover": "https://i.ibb.co/kXpyd24/venom.jpg",
+      "blockbuster": true,
+      "mostviewed": true,
+      "ucm": false,
+      "src": "Venom",
+      "trailer": "https://www.youtube.com/watch?v=u9Mv98Gr5pY",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff2891ec5d34b3746353",
+      "name": "Black Panther",
+      "year": "2018",
+      "duration": "2h 15m",
+      "description": "Después de morir su padre, T'Challa regresa a su nación, Wakanda. Una vez allí, descriptionubre que tiene un nuevo y terrible enemigo, y T'Challa asume la personalidad de Pantera Negra para salvar no solo al reino de Wakanda, sino a toda la humanidad.",
+      "background": "https://i.ibb.co/cD6pf4X/bg-blackpanther.jpg",
+      "cover": "https://i.ibb.co/xSn3Cdc/blackpanther.jpg",
+      "ucm": true,
+      "ucmid": 16,
+      "src": "Black Panther",
+      "trailer": "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff3391ec5d34b3746354",
+      "name": "Spider-Man: Homecoming",
+      "year": "2017",
+      "duration": "2h 13m",
+      "description": "Peter Parker asume su nueva identidad como Spider-Man y regresa a vivir con su tía después de su aventura con los Vengadores. Al volver, mientras sigue bajo la tutela de Tony Stark, descriptionubre que ha surgido un nuevo y despiadado enemigo que pretende destruir todo lo que ama: el Buitre.",
+      "background": "https://i.ibb.co/XsZvS4f/bg-spiderman-homecoming.jpg",
+      "cover": "https://i.ibb.co/pdrP7Z1/spiderman-homecoming.jpg",
+      "ucm": true,
+      "ucmid": 17,
+      "src": "Spider-Man - Homecoming",
+      "trailer": "https://www.youtube.com/watch?v=n9DwoQ7HWvI",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff4191ec5d34b3746355",
+      "name": "Doctor Strange",
+      "year": "2016",
+      "duration": "1h 55m",
+      "description": "Después de sufrir un accidente, un brillante y arrogante cirujano busca rehabilitarse mediante técnicas alternativas. Sus intentos le llevan a descriptionubrir que ha sido designado para encabezar la lucha contra una fuerza oscura y sobrenatural.",
+      "background": "https://i.ibb.co/xDLzw2J/bg-doctorstrange.jpg",
+      "cover": "https://i.ibb.co/b6j6Czc/doctorstrange.jpg",
+      "ucm": true,
+      "ucmid": 18,
+      "src": "Doctor Strange",
+      "trailer": "https://www.youtube.com/watch?v=HSzx-zryEgM",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff4a91ec5d34b3746356",
+      "name": "Thor: Ragnarok",
+      "year": "2017",
+      "duration": "2h 10m",
+      "description": "Thor está preso en el otro extremo del universo. Necesita regresar a tiempo para evitar que la todopoderosa Hela destruya su mundo, pero para escapar de su confinamiento y evitar el apocalipsis tendrá que vencer antes al Increíble Hulk en un torneo de gladiadores.",
+      "background": "https://i.ibb.co/jDffVtk/bg-thor-ragnarok.jpg",
+      "cover": "https://i.ibb.co/PCPynQq/thor-ragnarok.jpg",
+      "ucm": true,
+      "ucmid": 19,
+      "src": "Thor - Ragnarok",
+      "trailer": "https://www.youtube.com/watch?v=ue80QwXMRHg",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff5691ec5d34b3746357",
+      "name": "Ant-Man & The Wasp",
+      "year": "2018",
+      "duration": "2h 5m",
+      "description": "Scott Lang vuelve a enfundarse el traje de Ant-Man para pelear codo a codo junto con la Avispa. La misión revela a los dos superhéroes un secreto terrible y los enfrenta a su enemigo más poderoso.",
+      "background": "https://i.ibb.co/7GPMkhV/bg-antmanandthewasp.jpg",
+      "cover": "https://i.ibb.co/Y3qhysv/antmanandthewasp.jpg",
+      "ucm": true,
+      "ucmid": 20,
+      "src": "Ant-Man and The Wasp",
+      "trailer": "https://www.youtube.com/watch?v=UUkn-enk2RU",
+      "available": true,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff5f91ec5d34b3746358",
+      "name": "Avengers: Infinity War",
+      "year": "2018",
+      "duration": "2h 40m",
+      "description": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo.",
+      "background": "https://i.ibb.co/6Nt85gM/bg-avengers-infinitywar.jpg",
+      "cover": "https://i.ibb.co/Sf58hrw/avengers-infinitywar.jpg",
+      "ucm": true,
+      "ucmid": 21,
+      "src": "Avengers - Infinity War",
+      "trailer": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+      "available": true,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff6991ec5d34b3746359",
+      "name": "Avengers: EndGame",
+      "year": "2019",
+      "duration": "3h 2m",
+      "description": "Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.",
+      "background": "https://i.ibb.co/NZTZyZf/bg-avengers-endgame.jpg",
+      "cover": "https://i.ibb.co/MSSJbsW/avengers-endgame.jpg",
+      "blockbuster": true,
+      "mostviewed": true,
+      "ucm": true,
+      "ucmid": 22,
+      "src": "Avengers - EndGame",
+      "trailer": "https://www.youtube.com/watch?v=svLSGZkTzC0",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff7291ec5d34b374635a",
+      "name": "Spider-Man: Far From Home",
+      "year": "2019",
+      "duration": "2h 20m",
+      "description": "Peter Parker decide pasar unas merecidas vacaciones en Europa junto a MJ, Ned y el resto de sus amigos. Sin embargo, Peter debe volver a ponerse el traje de Spider-Man cuando Nick Fury le encomienda una nueva misión: frenar el ataque de unas criaturas que están causando el caos en el continente.",
+      "background": "https://i.ibb.co/SdL558j/bg-spiderman-farfromhome.jpg",
+      "cover": "https://i.ibb.co/XxGqf2w/spiderman-farfromhome.jpg",
+      "blockbuster": true,
+      "mostviewed": false,
+      "ucm": true,
+      "ucmid": 23,
+      "src": "Spider-Man - Far From Home",
+      "trailer": "https://www.youtube.com/watch?v=Nt9L1jCKGnE",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff7c91ec5d34b374635b",
+      "name": "Logan",
+      "year": "2017",
+      "duration": "2h 21m",
+      "description": "Han pasado los años y los mutantes están en declive. Logan, débil y cansado, vive alejado de todos hasta que acepta una última misión de Charles Xavier: la de proteger a una joven especial, de nombre Laura Kinney pero conocida como X-23, la última esperanza de la raza mutante.",
+      "background": "https://i.ibb.co/JxWJkDn/bg-logan.jpg",
+      "cover": "https://i.ibb.co/8cWKmQb/logan.jpg",
+      "ucm": false,
+      "src": "Logan",
+      "trailer": "https://www.youtube.com/watch?v=Div0iP65aZo",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff8591ec5d34b374635c",
+      "name": "Deadpool",
+      "year": "2016",
+      "duration": "1h 49m",
+      "description": "Un exmercenario quien, tras haber sido sometido a un cruel experimento, adquiere el superpoder de sanar rápidamente y pretende vengarse del hombre que destrozó su vida.",
+      "background": "https://i.ibb.co/2gwW5VP/deadpool.jpg",
+      "cover": "https://i.ibb.co/2gwW5VP/deadpool.jpg",
+      "ucm": false,
+      "src": "Deadpool",
+      "trailer": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f77ff8e91ec5d34b374635d",
+      "name": "Black Widow",
+      "year": "2020",
+      "duration": "2h 13min",
+      "description": "Al nacer, la Viuda Negra, también conocida como Natasha Romanova, se entrega a la KGB para convertirse en su agente definitivo. Cuando la URSS se separa, el gobierno intenta matarla mientras la acción se traslada a la actual Nueva York.",
+      "background": "https://i.ibb.co/HPQpKhp/bg-blackwidow-v2.jpg",
+      "cover": "https://i.ibb.co/g4XyYsk/blackwidow.jpg",
+      "ucm": true,
+      "ucmid": 24,
+      "src": "Black Widow",
+      "trailer": "https://www.youtube.com/watch?v=xY1eqVSSuus",
+      "available": true,
+      "likes": [
+        "itseduardopacheco@gmail.com",
+        "albertovazquez1799@gmail.com"
+      ],
+      "dislikes": []
+    },
+    {
+      "_id": "5f79f92876d6b40dced978e9",
+      "name": "The New Mutants",
+      "year": "2020",
+      "duration": "1h 39min",
+      "description": "La historia se centra en los Nuevos Mutantes, un grupo de mutantes formado por los primeros graduados en la escuela de Charles Xavier.",
+      "background": "https://lanetaneta.com/wp-content/uploads/2020/08/Como-se-conectan-The-New-Mutants-con-X-Men-Apocalypse-y.jpeg",
+      "cover": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcORUm9-D31jvruywMie588xKaBQZsKXGTOkzBsfYydnVFMfIE",
+      "ucm": false,
+      "src": "The New Mutants",
+      "trailer": "https://www.youtube.com/watch?v=W_vJhUAOFpI",
+      "available": true,
+      "likes": [
+        "albertovazquez1799@gmail.com"
+      ],
+      "dislikes": [
+        "itseduardopacheco@gmail.com"
+      ]
+    }
+  ]
+}
