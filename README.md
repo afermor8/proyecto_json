@@ -1,5 +1,4 @@
 # ENUNCIADOS  
-=
 ## PROYECTO_JSON  
 
 1. **Listar información:** Listar los títulos de los episodios, la temporada a la que pertenecen y el número de episodio.  
