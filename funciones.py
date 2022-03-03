@@ -33,3 +33,17 @@ def buscar_info_relacionada(diccionario,num):
             capitulos.append(episodio.get("name"))
             urls.append(episodio.get("image").get("original"))
     return capitulos,urls
+
+def hacer_media(diccionario,temporada):
+    puntuaciones=[]
+    cont=0
+    episodios=diccionario.get("_embedded").get("episodes")
+    for episodio in episodios:
+        if temporada==episodio.get("season"):
+            puntuaciones.append(episodio.get("rating").get("average"))
+            cont=cont+1
+    try:
+        media=sum(puntuaciones)/cont
+    except:
+        media=None
+    return media

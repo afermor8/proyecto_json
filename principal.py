@@ -41,10 +41,22 @@ while puntuacion <0 or puntuacion>10:
 titulos,urls=buscar_info_relacionada(westworld,puntuacion)
 
 if not titulos and not urls:
-    print ("ERROR. No hay capítulos con una puntuación mayor a la dada.")
+    print ("ERROR. No hay capítulos con una puntuación igual o mayor a la dada.")
 else:
     print ("\n**Capítulos con puntuación igual o superior:**")
     for titulo,url in zip (titulos,urls):
         print ("  --Título:",titulo,"\n    Imagen:",url,"\n")
 print(" ---------------")
+
+
+#Pedir número de temporada y hacer la media de las puntuaciones de sus capitulos
+temporada=int(input("Dime un número de temporada: "))
+
+media=hacer_media(westworld,temporada)
+if not media:
+    print ("ERROR. No existen datos.")
+else:
+    print ("La puntuación media de dicha temporada es",round(media,2))
+
+print (" ---------------\nFin del programa.\n ---------------")
 
