@@ -23,3 +23,13 @@ def buscar_informacion(diccionario,titulo):
         if titulo.lower()==episodio.get("name").lower():
             return episodio.get("summary")
 
+
+def buscar_info_relacionada(diccionario,num):
+    capitulos=[]
+    urls=[]
+    episodios=diccionario.get("_embedded").get("episodes")
+    for episodio in episodios:
+        if num<=episodio.get("rating").get("average"):
+            capitulos.append(episodio.get("name"))
+            urls.append(episodio.get("image").get("original"))
+    return capitulos,urls

@@ -26,6 +26,25 @@ print(" ---------------\n   Total de capítulos de la serie:",contar_informacion
 episodiopedido=input("Dime el título de un episodio: ")
 resultado=buscar_informacion(westworld,episodiopedido)
 if not resultado:
-    print ("ERROR. No existe información")
+    print ("ERROR. No existe información.\n ---------------")
 else:
     print ("Sinopsis:",resultado,"\n ---------------")
+
+
+#Pedir puntuación entre 0 y 10 y mostrar títulos de los capítulos que tienen una puntuación superior o igual a la dada
+#y la url de la imagen original de cada capítulo
+puntuacion= float(input("Dime una puntuación entre 0 y 10 (puede ser un decimal): "))
+while puntuacion <0 or puntuacion>10:
+    print ("La puntuación debe ser entre 0 y 10 (puede ser un decimal).")
+    puntuacion=float(input("Dime una puntuación entre 0 y 10:"))
+
+titulos,urls=buscar_info_relacionada(westworld,puntuacion)
+
+if not titulos and not urls:
+    print ("ERROR. No hay capítulos con una puntuación mayor a la dada.")
+else:
+    print ("\n**Capítulos con puntuación igual o superior:**")
+    for titulo,url in zip (titulos,urls):
+        print ("  --Título:",titulo,"\n    Imagen:",url,"\n")
+print(" ---------------")
+
